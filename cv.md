@@ -47,4 +47,26 @@ function rgb(r, g, b) {
     return hexColor.toUpperCase();
 } 
 ```
+## Courses
+* [**The Rolling Scopes**](https://rs.school/js/): JS / FRONT-END. STAGE 0
+* [**W3schools**](https://www.w3schools.com/html/default.asp), [**Code-basics**](https://ru.code-basics.com/) and [**Learn.javascript**](https://learn.javascript.ru/): HTML, CSS and JavaScript <br>
+* **Book**: Head First JavaScript Programming. Eric Freeman, Elisabeth Robson
 
+## Education
+**University**: Nizhny Novgorod State Technical University n.a. R.E. Alekseev  
+**Higher education**: master's degree  
+**Field of Study**: 22.04.01 Material Science and Material Technologies
+
+## Pet projects
+* [**Website**](https://rolling-scopes-school.github.io/ssamarsky-JSFEPRESCHOOL/portfolio/)
+* [**Audio-player**](https://rolling-scopes-school.github.io/ssamarsky-JSFEPRESCHOOL/audio-player/)
+
+## English
+**English level**: A1+ (Low Pre-Intermediate) <br>
+I am learning English from a book "English Grammar in Use" Murphy Raymond <br>
+I don't have much speaking practice
+
+## Hobby
+* Music/ Playing guitar
+* Fitness / Healthy lifestyle
+* Read / Classical and World literature
