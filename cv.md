@@ -54,8 +54,24 @@ function rgb(r, g, b) {
             return str;
         }
     }
-    
+
     hexColor = hexColor + transformNum(r) + transformNum(g) + transformNum(b);
     return hexColor.toUpperCase();
 } 
 ```
+## Education
+**University**: Nizhny Novgorod State Technical University n.a. R.E. Alekseev  
+**Higher education**: master's degree  
+**Field of Study**: 22.04.01 Material Science and Material Technologies
+
+## Courses
+* [**The Rolling Scopes**](https://rs.school/js/): JS / FRONT-END. STAGE 0
+* [**Learn.javascript**](https://learn.javascript.ru/)<br>
+* Free courses on different youtube channels
+
+##  Books
+* Head First JavaScript Programming. Eric Freeman, Elisabeth Robson
+* Grokking Algorithms: An illustrated guide for programmers and other curious people. Aditya Y. Bhargava
+* You Don't Know JS: Get Started. Kyle Simpson
+* You Don't Know JS: Scope & Closures. Kyle Simpson
+* Eloquent JavaScript. Marijn Haverbeke
