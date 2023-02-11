@@ -75,3 +75,19 @@ function rgb(r, g, b) {
 * You Don't Know JS: Get Started. Kyle Simpson
 * You Don't Know JS: Scope & Closures. Kyle Simpson
 * Eloquent JavaScript. Marijn Haverbeke
+
+## Pet projects
+* [**Website - Photographer's portfolio**](https://ssamarsky.github.io/photographer/index.html)
+* [**Website - Shelter for pets**](https://ssamarsky.github.io/cozy-house/pages/main/index.html)
+* [**Audio-player**](https://rolling-scopes-school.github.io/ssamarsky-JSFEPRESCHOOL/audio-player/)
+ 
+## English
+**English level**: A2 (Pre-Intermediate) <br>
+EPAM English test result: A1, but in other tests A2 (Pre-Intermediate).
+I am learning English from a book "English Grammar in Use" Murphy Raymond <br>
+I don't have much speaking practice
+
+## Hobby
+* Playing electric guitar
+* Reading fiction
+* Gym
