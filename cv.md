@@ -34,30 +34,24 @@ I am always learning and developing. I strive to write clean and understandable 
 * Able easy to fit into the team
 
 ## Code Example
-**RGB To Hex Conversion** <br>
+**Binary search** <br>
 JavaScript:
 ```
-function rgb(r, g, b) {
-    let hexColor = '';
+function binarySearch(list, item) {
+    let low = ();
+    let heigh = list.length - 1;
 
-    function transformNum(num) {
-        let str = '';
-        
-        if (num > 255) num = 255;
-        else if (num < 0) num = 0;
+    while (low <= heigh) {
+        let mid = Math.floor((low +  heigh) / 2);
+        let guess = list[mid];
 
-        if (num < 16) {
-            str = str + 0 + num.toString(16);
-            return str;
-        } else {
-            str = str + num.toString(16);
-            return str;
-        }
+        if (guess === item) return mid;
+        else if (guess > item) heigh = mid - 1;
+        else low = mid + 1;
     }
 
-    hexColor = hexColor + transformNum(r) + transformNum(g) + transformNum(b);
-    return hexColor.toUpperCase();
-} 
+    return mid;
+}
 ```
 ## Education
 **University**: Nizhny Novgorod State Technical University n.a. R.E. Alekseev  
